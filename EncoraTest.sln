@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EncoraTest", "EncoraTest\EncoraTest.csproj", "{AC0CFBEF-5AA6-479C-A125-6D9344F1E9BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncoraUnitTest", "EncoraUnitTest\EncoraUnitTest.csproj", "{B9A6AF92-3992-43D2-9482-45252469399D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC0CFBEF-5AA6-479C-A125-6D9344F1E9BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC0CFBEF-5AA6-479C-A125-6D9344F1E9BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC0CFBEF-5AA6-479C-A125-6D9344F1E9BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC0CFBEF-5AA6-479C-A125-6D9344F1E9BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9A6AF92-3992-43D2-9482-45252469399D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A6AF92-3992-43D2-9482-45252469399D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A6AF92-3992-43D2-9482-45252469399D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A6AF92-3992-43D2-9482-45252469399D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CD908C9-42F9-4392-988E-9CB481AFC545}
+	EndGlobalSection
+EndGlobal
