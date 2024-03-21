@@ -1,0 +1,17 @@
+﻿# EncoraTest
+
+This is a test for the position of Software Developer in Test in C#
+It is a console application, which reads a JSON, performs some calculations and metrics and generates a CSV
+
+## Run the project in CLI 
+
+```bash
+dotnet build
+dotnet run
+```
+
+## Or you can use Visual Studio IDE
+
+## Important!!
+When entering the information in the first option, 
+you may have to perform a double-enter, this will depend on the console you are using to run the program.
