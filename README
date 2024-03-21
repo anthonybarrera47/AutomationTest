@@ -1,4 +1,4 @@
-﻿# EncoraTest
+﻿# AutomationTest
 
 This is a test for the position of Software Developer in Test in C#
 It is a console application, which reads a JSON, performs some calculations and metrics and generates a CSV
